@@ -3,6 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 1. Summary
+
 In this project I implanted the PID controller to drive the car so that it followed the designed track.
 
 2. effect each of the P, I, D components
